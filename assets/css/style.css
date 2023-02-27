@@ -64,7 +64,7 @@ p {
   background-position: center;
 }
 
-/* This section for float */
+/* This section for float class */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -81,7 +81,7 @@ p {
   margin-left: 20px;
 }
 
-/* benefits is for the sidebar */
+/* class benefits - is for the sidebar */
 .benefits {
   margin-right: 20px;
   padding: 20px;
